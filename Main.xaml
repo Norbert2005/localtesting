@@ -85,7 +85,7 @@
             <av:Size x:Key="ShapeSize">200,62.4</av:Size>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
-        <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="333.6,251.2" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="[What is your name?]" Title="[name]">
+        <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="333.6,251.2" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="[What is your name?]" Title="[name New]">
           <ui:InputDialog.Result>
             <OutArgument x:TypeArguments="x:String">[Name]</OutArgument>
           </ui:InputDialog.Result>
